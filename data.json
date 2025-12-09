@@ -6,5 +6,13 @@
   "CUSA00123": {
     "title": "Example Game",
     "image": "https://raw.githubusercontent.com/Roth-Links/ps4-poster/main/images/CUSA00123.jpg"
+  },
+  "CUSA09311": {
+    "title": "Assassin's Creed Odyssey",
+    "image": "https://raw.githubusercontent.com/Roth-Links/ps4-poster/bffa6ad27fba03a1787f235d8fc7b530f85dece2/images/ac-odyssey-home-hero-desktop-tablet-01-ps4-en-26sep18.webp"
+  },
+  "CUSA05625": {
+    "title": "Assassin's Creed Origins",
+    "image": "https://raw.githubusercontent.com/Roth-Links/ps4-poster/main/images/ACO_ka_horizontal_E3_170611_330pm_UK_1497210155.avif"
   }
 }
